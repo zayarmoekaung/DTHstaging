@@ -42,21 +42,22 @@ link = "plugins/search/search.js"
 
 
 [params]
-logo = "/logo.png"
+logo = "/Logo_Sample.png"
 #home = "Home"
 
 layout = "1"
 
-
+author = "DTH"
+author_image = "images/banner-img.png"
 
 
 [[menu.main]]
-name = "/buttons_05.png"
+name = "/buttons_05 .png"
 URL = "contact"
 weight = 3
 
 [[menu.main]]
-name = "/buttons_03.png"
+name = "/buttons_03 .png"
 URL = "about"
 weight = 3
 
