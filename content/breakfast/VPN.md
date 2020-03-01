@@ -7,6 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
+image: "/images/VPN (1).jpg"
 ---
 {{< title title="Virtual Private Network" >}}
 {{< title title="What is VPN?">}}

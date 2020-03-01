@@ -1,5 +1,5 @@
 baseURL = "/"
-languageCode = "en-us"
+languageCode = "en"
 title = "Digital Tea House"
 theme = "parsa"
 paginate = 6
@@ -42,14 +42,22 @@ link = "plugins/search/search.js"
 
 
 [params]
-logo = "/Logo_Sample.png"
-#home = "Home"
+logo = "/Logo_Sample1.png"
+description = "Digital tea house : ကျုပ်တို့  ရဲ့ လက်ဘက်ရည်ဆိုင် က ပုံမှန်လက်ဘက်ရည်ဆိုင်မဟုတ်ဘူးဗျ။ ဒစ်ဂျစ်တယ်လက်ဘက်ရည်ဆိုင် ။"
 
 layout = "1"
 
 author = "DTH"
 author_image = "images/banner-img.png"
+mobile = "+95 (9) 453336775"
+email = "contact@digitalteahouse.info"
+address = "Innwa Residence, Innwa street, South Oakkalar Pa Tsp , Yangon,Myanmar"
+contact_form_action = "#"
 
+
+[[params.social]]
+icon = "ti-facebook"
+URL = "#"
 
 [[menu.main]]
 name = "/buttons_05 .png"

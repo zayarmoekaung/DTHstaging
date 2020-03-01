@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/Private_window_in_Firefox_68.png"
 ---
 Firefox တွင်ပါဝင်သော private browsing mode သည် မိမိရှာဖွေထားသည့်ဘမှတ်တမ်းများ၊ cookies ၊ စကားဝှက်များအား ဖယ်ရှားပေးသည်။ မိမိ၏ လုပ်ဆောင်ချက်များအား မိမိ computerဖြင့် firefox အသုံးပြုသူများထံမှ ဖုံးကွယ်ပေးသော်လည်း မိမိအား လိုင်းပေါ်မှာမြင်နေရသေးပါသည်။
 <!--more-->

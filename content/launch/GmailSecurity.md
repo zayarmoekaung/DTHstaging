@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/gmailsec.jpg"
 ---
 
 

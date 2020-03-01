@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/Launch-Chrome-Incognito-Mode-Featured_4d470f76dc99e18ad75087b1b8410ea9.png"
 ---
 Incognito ဆိုသည်မှာ Chrome တွင်ပါရှိသော private mode တစ်ခုဖြစ်ပါသည်။ Incognito mode အားအသုံးပြုပါက browsing server မှလွဲ၍ မိမိအသုံးပြုခဲ့သောdata များအား မိမိတစ်ယောက်မှလွဲ၍ မည်သူတစ်ဦးတစ်ယောက်မှမသိရှိနိုင်ပါ။
 <!--more-->

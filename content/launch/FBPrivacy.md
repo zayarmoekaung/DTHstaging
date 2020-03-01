@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/trackingfacebook-1280x720.jpg"
 ---
 Facebook တွင် အကောင့်၏ လုံခြုံရေးဆိုင်ရာ Setting များပါရှိသလို မိမိတစ်ဦးတစ်ယောက်၏လုံခြုံရေးကို ချိန်ညှိလို့ရတဲ့ Setting များလဲ ရှိပါသည်။
 <!--more-->

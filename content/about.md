@@ -1,7 +1,7 @@
 ---
 title: "လဖ္ဘက်ရည်ဆိုင်အကြောင်း"
 date: 2020-02-19T06:37:14+06:30
-
+image: "/images/Men meeting at tea shop.png"
 ---
 {{< title title="လက်ဘက်ရည်ဆိုင်အကြောင်း">}}
 

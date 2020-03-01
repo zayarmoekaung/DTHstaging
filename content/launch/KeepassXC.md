@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/keepassxc-816x345.png"
 ---
 KeePass   XC  သည် စကားဝှက်များ စီမံခန့်ခွဲသည့် စနစ်တစ်ခုဖြစ်သည်။  Window / Mac Os / Linux  တို့တွင် လွယ်ကူစွာအသုံးပြုနိုင်သည်။Keepass XC  အား ကွန်ပျူတာအတွင်းသို့ ထည့်သွင်းခြင်း၊
 Keepass XC တွင် လုံခြုံသည့် သိမ်းဆည်းရာ Database ဖွင့်ခြင်း ၊ သိမ်းဆည်းခြင်၊ Password များ Generate လုပ်ခြင်း ၊ သိမ်းဆည်းခြင်း ၊ ကူးယူသုံးစွဲခြင်းတို့ကို ပြသသွားပါမည်။

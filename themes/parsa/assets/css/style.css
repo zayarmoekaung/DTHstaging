@@ -142,17 +142,17 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #ff6f00;
+  background: #1800ff;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #1800ff !important;
 }
 
 .btn-primary:hover {
-  background: #ff8c33;
+  background: #1800ff;
 }
 
 .btn-outline-light {
@@ -173,7 +173,7 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #ff6f00;
+  color: #010101;
   border: 0;
 }
 
@@ -311,7 +311,7 @@ a:hover {
   color: #ff6f00;
 }
 a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #010101 !important;
 }
 
 .slick-slide {
@@ -319,7 +319,7 @@ a.text-dark:hover {
 }
 
 .section {
-  color: #f2e1ae;
+  color: #010101;
   padding-top: 90px;
   padding-bottom: 90px;
 }
@@ -633,10 +633,11 @@ textarea.form-control {
 }
 
 .pagination .page-item .page-link {
-  font-family: "hanskendrick";
+  font-family: "mmrtext";
   font-size: 30px;
   border: 0;
-  color: #585757;
+  color: #010000;
+  src: url(/fonts/mmrtext.woff2?#iefix) format('woff2')
 }
 
 @media (max-width: 767px) {
@@ -711,7 +712,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #000000 0);
 }
 
 .dividers {
@@ -851,7 +852,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #323231;
   padding: 20px;
   font-weight: 600;
 }

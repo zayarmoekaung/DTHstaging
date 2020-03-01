@@ -2,6 +2,7 @@
 title: "Cookies"
 date: 2020-02-24T12:08:18+06:30
 type: "post"
+image: "/images/internet-cookies.jpg"
 ---
   {{< title title="Cookies ဆိုတာဘာလဲ??">}}
   <!--more-->

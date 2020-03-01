@@ -7,7 +7,7 @@ categories:
 tags:
   - "Internet"
   - "Security"
-image: "/images/launchp.png"
+image: "/images/What-is-browser-extension-900-x-400.png"
 ---
 Extensions ဆိုသည်မှာ browsing ပြုလုပ်ရာတွင် လုပ်ဆောင်ချက်များကို စိတ်တိုင်းကျ ထည့်သွင်းအသုံးပြုနိုင်သော software အသေးစားများ ဖြစ်သည်။ Extensions သည် Chrome လုပ်ဆောင်ချက်များကို မိမိတိူ့အသုံးပြုရာတွင် လိုက်လျောညီထွေဖြစ်အောင် လုပ်ဆောင်ပေးနိုင်သည်။
 <!--more--> 
