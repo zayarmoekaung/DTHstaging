@@ -3,6 +3,7 @@ title: "Android စနစ် လုံခြုံရေးအကြောင်
 date: 2020-02-28T00:04:01+06:30
 type: "post"
 image: "/images/android-security-100741557-large.jpg"
+alt: "Image Contain Andorid Logo With Lock "
 ---
 
 Android စနစ်ဆိုသည်မှာ Linux စနစ် ကို  အခြေခံတည်ဆောက် ထားပြီး ကနဦး အားဖြင့် မိုဘိုင်းလ်ဖုန်းများ နှင့် အိတ်ဆောင် ကွန်ပျူတာများအတွက် ဖန်တီးထား တဲ့ စနစ်တစ်ခုဖြစ်ပါတယ်။ 

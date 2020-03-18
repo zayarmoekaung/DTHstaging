@@ -1,7 +1,7 @@
 <head>
   <meta charset="utf-8">
   <title>{{ .Site.Title }}</title>
-
+  
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
@@ -20,5 +20,13 @@
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
   <link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+
+<a href="https://chrome.google.com/webstore/detail/mua-web-unicode-converter/jnmdbgnckbbmblkbammnfagdmikchhnp">Don't you have Unicode? Click Here</a>
+<script>
+if (document.getElementById('extension-is-installed')) {
+  document.getElementById('install-button').style.display = 'none';
+}
+</script>
+  
 
 </head>

@@ -23,7 +23,12 @@
         </ul>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-          {{.Content}}
+          
+        <!--converter-->
+
+       {{.Content}}
+
+        <!--converter-->    
         </article>
       </div>
       {{partial "sidebar.html" . }}
