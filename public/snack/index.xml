@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ဒစ်ဂျစ်တယ်သရေစာ on Digital Tea House</title>
+    <link>/snack/</link>
+    <description>Recent content in ဒစ်ဂျစ်တယ်သရေစာ on Digital Tea House</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 19 Feb 2020 06:36:38 +0630</lastBuildDate>
+    
+	<atom:link href="/snack/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Android စနစ် လုံခြုံရေးအကြောင်း</title>
+      <link>/snack/andorid-security/</link>
+      <pubDate>Fri, 28 Feb 2020 00:04:01 +0630</pubDate>
+      
+      <guid>/snack/andorid-security/</guid>
+      <description>&lt;p&gt;Android စနစ်ဆိုသည်မှာ Linux စနစ် ကို  အခြေခံတည်ဆောက် ထားပြီး ကနဦး အားဖြင့် မိုဘိုင်းလ်ဖုန်းများ နှင့် အိတ်ဆောင် ကွန်ပျူတာများအတွက် ဖန်တီးထား တဲ့ စနစ်တစ်ခုဖြစ်ပါတယ်။&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Communication Security</title>
+      <link>/snack/communication-security/</link>
+      <pubDate>Fri, 28 Feb 2020 00:03:48 +0630</pubDate>
+      
+      <guid>/snack/communication-security/</guid>
+      <description>&lt;p&gt;လူသားမျိုးနွယ်စုများအပါဝင် အခြားခြားသော သက်ရှိများအားလုံးသည် ဆက်သွယ်ရေးစနစ် မျိုးစုံကို လွန်ခဲ့သော နှစ်ပေါင်းများစွာထဲက အသုံးပြုခဲ့ကြပြီးဖြစ်သည်။&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Data shadow</title>
+      <link>/snack/datashadow/</link>
+      <pubDate>Fri, 28 Feb 2020 00:03:33 +0630</pubDate>
+      
+      <guid>/snack/datashadow/</guid>
+      <description>&lt;p&gt;ကျွန်တော်တို့ရဲ့ ကွန်ပျူတာတွေ ၊ မိုဘိုင်းဖုန်းတွေ ၊ နဲ့ အခြား အခြားသော ဒစ်ဂျစ်တယ် ပစ္စည်းတွေ မှ တစ်ဆင့်  ရာနဲ့ချီတဲ့&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is hacking</title>
+      <link>/snack/hacking/</link>
+      <pubDate>Fri, 28 Feb 2020 00:01:27 +0630</pubDate>
+      
+      <guid>/snack/hacking/</guid>
+      <description>&lt;p&gt;မိမိ အကောင့်တွေ Hack ခံရပြီဟု ဆိုလျှင် Hacking လုပ်သူအများစုမှာ နည်းပညာကိုကျွမ်းကျွမ်းကျင်ကျင်အသုံးပြု၍ Computer များ၊ Server များကို Hack ခြင်းမဟုတ်ပေ။မိမိတို့အသုံးပြုနေသော  Server Network များကတော့ မိမိတို့အား&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>What is Phishing and How to Prevent Phishing </title>
+      <link>/snack/phishing/</link>
+      <pubDate>Fri, 28 Feb 2020 00:01:18 +0630</pubDate>
+      
+      <guid>/snack/phishing/</guid>
+      <description>&lt;p&gt;Phishing ဆိုသည်မှာ ယုံကြည်ရသောအဖွဲ့အစည်းတစ်ခုခုသို့မဟုတ်ယုံကြည်လောက်ဖွယ်အကြောင်းအရာများ
+ပါသောလင့်ခ်များပို့၍ ထိုလင့်ခ်များကို၀င်လိုက်လျှင်မိမိ၏ user name, password ,Bank acc ,card number  စသောအချက်အလက်များကိုတောင်းတာကိုတွေ့ရသည်။&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>ဒစ်ဂျစ်တယ်လုံခြုံရေး</title>
+      <link>/snack/digitalsecurity/</link>
+      <pubDate>Fri, 28 Feb 2020 00:00:40 +0630</pubDate>
+      
+      <guid>/snack/digitalsecurity/</guid>
+      <description>&lt;p&gt;ဒစ်ဂျစ်တယ်လုံခြုံရေး အလေ့အထကောင်းများ ကျင့်သုံးခြင်း&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>/snack/wifi/</link>
+      <pubDate>Thu, 27 Feb 2020 23:59:28 +0630</pubDate>
+      
+      <guid>/snack/wifi/</guid>
+      <description>&lt;p&gt;င်တို့၏ အိမ်တွင်အခကြေးငွေပေးဆောင်၍တပ်ဆင်ထားသောမိသားစုသုံး wifi စက်များသည် ပြmmသနာမရှိလှသော်လည်း&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

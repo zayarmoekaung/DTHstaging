@@ -41,7 +41,8 @@ VERSION:	0.0.1
 }
 .four {
   grid-column: 2;
-  grid-row: 3;
+  grid-row: 2;
+  align-items: center;
 }
 .five {
   grid-column: 2;
@@ -65,14 +66,15 @@ body {
   font-family: "Open Sans", sans-serif;
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
-  color: #585757;
+  color: #000;
 }
 
 p, .paragraph {
   font-weight: 400;
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.5;
   font-family: "Open Sans", sans-serif;
+  color: #000;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -992,4 +994,6 @@ div.content {
     float: none;
   }
 }
+
+
 /*# sourceMappingURL=maps/style.css.map */

@@ -29,7 +29,7 @@
         </li>
         {{ else }}
         <li class="nav-item">
-          <a class="nav-link text-uppercase text-dark" href="{{ .URL | absURL }}"> <img src= "{{ .Name }}" style="max-width: 100px; max-height: 80px;" alt="{{ .Name }}"></a>
+          <a class="nav-link text-uppercase text-dark" href="{{ .URL | absURL }}"> <img src= "{{ .Name }}" style="max-width: 100px; max-height: 80px;" alt= "{{ .URL}}"> </a>
         </li>
         {{ end }}
         {{ end }}
