@@ -1,16 +1,51 @@
 baseURL = "/"
 languageCode = "en"
 title = "Digital Tea House"
-theme = "maintaince"
+theme = "parsa"
 paginate = 6
 
+# output
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+# CSS Plugins
+[[params.plugins.css]]
+link = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+link = "plugins/slick/slick.css"
+[[params.plugins.css]]
+link = "plugins/themify-icons/themify-icons.css"
+
+# JS Plugins
+[[params.plugins.js]]
+link = "plugins/jQuery/jquery.min.js"
+[[params.plugins.js]]
+link = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+link = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+link = "plugins/headroom/headroom.js"
+[[params.plugins.js]]
+link = "plugins/instafeed/instafeed.min.js"
+[[params.plugins.js]]
+link = "plugins/masonry/masonry.js"
+[[params.plugins.js]]
+link = "plugins/reading-time/readingTime.min.js"
+[[params.plugins.js]]
+link = "plugins/smooth-scroll/smooth-scroll.js"
+[[params.plugins.js]]
+link = "plugins/search/fuse.min.js"
+[[params.plugins.js]]
+link = "plugins/search/mark.js"
+[[params.plugins.js]]
+link = "plugins/search/search.js"
 
 
 [params]
-
+logo = "/DigitalTeaHouse.png"
 description = "Digital Tea House : ကျုပ်တို့  ရဲ့ လက်ဘက်ရည်ဆိုင် 'Digital Tea House'  က ပုံမှန်လက်ဘက်ရည်ဆိုင်မဟုတ်ဘူးဗျ။ ဒစ်ဂျစ်တယ်လက်ဘက်ရည်ဆိုင် ။"
 
-
+layout = "1"
 
 
 mobile = "+95 (9) 453336775"
@@ -18,4 +53,35 @@ email = "contact@digitalteahouse.info"
 address = "Innwa Residence, Innwa street, South Oakkalar Pa Tsp , Yangon,Myanmar"
 contact_form_action = "#"
 
+
+[[params.social]]
+icon = "ti-facebook"
+URL = "#"
+
+[[menu.main]]
+name = "/Contact Imformation.png"
+
+URL = "contact"
+weight = 3
+
+[[menu.main]]
+name = "/About Digital Tea House.png"
+URL = "about"
+weight = 3
+
+[[menu.main]]
+name = "/Breakfast 1.png"
+URL = "breakfast"
+weight = 4
+
+[[menu.main]]
+name = "/Lunch1.png"
+URL = "launch"
+weight = 5
+
+
+[[menu.main]]
+name = "/Lunck Break .png"
+URL = "snack"
+weight = 6
 
